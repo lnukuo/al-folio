@@ -9,7 +9,7 @@ last_name: Tao
 contact_note: >
   You can even add a little note about which of these is the best way to reach you.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  I am a DPhil student at the Cancer Epidemiology Unit, Nuffield Department of Population Health, University of Oxford, under the supervision of Dr Tammy Tong, Dr Keren Papier, Prof. Timothy Key, and Prof. Gillian Reeves.
+I am a DPhil student at the Cancer Epidemiology Unit, Nuffield Department of Population Health, University of Oxford, under the supervision of Dr Tammy Tong, Dr Keren Papier, Prof. Timothy Key, and Prof. Gillian Reeves.
 
 Prior to this, I worked a research assistant in Prof. Changzheng Yuan's lab at Zhejiang University and as a physician in Beijing. I received my MS at Columbia University and Medical Degree at Sun Yat-sen University. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
