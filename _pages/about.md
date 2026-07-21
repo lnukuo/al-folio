@@ -16,15 +16,15 @@ profile:
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
-# announcements:
-#   enabled: true # includes a list of news items
-#   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-#   limit: 5 # leave blank to include all the news in the `_news` folder
+announcements:
+  enabled: false # 设置为 false 即关掉首页新闻板块
+  scrollable: true
+  limit: 3
 
-# latest_posts:
-#   enabled: true
-#   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-#   limit: 3 # leave blank to include all the blog posts
+latest_posts:
+  enabled: false # 设置为 false 即关掉首页博客板块
+  scrollable: true
+  limit: 3
 ---
 
 I am a DPhil student at the Cancer Epidemiology Unit, Nuffield Department of Population Health, University of Oxford, under the supervision of Dr Tammy Tong, Dr Keren Papier, Prof. Timothy Key, and Prof. Gillian Reeves.
