@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <p>DPhil Student | Cancer Epidemiology</p>
+subtitle: <p>DPhil Student | Epidemiology | University of Oxford</p>
 
 profile:
   align: left
@@ -20,9 +20,9 @@ selected_papers: true
 social: false
 ---
 
-I am a DPhil student in the Nuffield Department of Population Health (NDPH) at the University of Oxford. My research focuses on lifestyle, dietary factors, and neurodegenerative diseases. 
+I am a DPhil student at the Cancer Epidemiology Unit, Nuffield Department of Population Health (NDPH), University of Oxford, under the supervision of Dr Tammy Tong, Dr Keren Papier, Prof. Timothy Key, and Prof. Gillian Reeves.
 
-Prior to this, I worked as a research assistant. Welcome to my personal academic website!
+Prior to this, I worked a research assistant in Prof. Changzheng Yuan's lab at Zhejiang University and as a physician in Beijing. I received my MS at Columbia University and Medical Degree at Sun Yat-sen University.
 
 <style>
   .profile {
