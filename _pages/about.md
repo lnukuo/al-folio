@@ -31,4 +31,4 @@ I am a DPhil student at the Cancer Epidemiology Unit, Nuffield Department of Pop
 
 Prior to this, I worked a research assistant in Prof. Changzheng Yuan's lab at Zhejiang University and as a physician in Beijing. I received my MS at Columbia University and Medical Degree at Sun Yat-sen University.
 
-<style> .profile { max-width: 150px !important; } </style>
+<style> .profile { max-width: 100px !important; } </style>
