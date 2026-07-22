@@ -86,6 +86,7 @@ al_folio:
 
 navbar_fixed: true
 footer_fixed: true
+back_to_top: true
 search_enabled: true
 socials_in_search: true
 posts_in_search: true
@@ -93,6 +94,7 @@ bib_search: true
 
 # Dimensions
 max_width: 930px
+
 
 # -----------------------------------------------------------------------------
 # Open Graph & Schema.org
