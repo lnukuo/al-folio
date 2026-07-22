@@ -86,7 +86,6 @@ al_folio:
 
 navbar_fixed: true
 footer_fixed: true
-back_to_top: true
 search_enabled: false
 socials_in_search: false
 posts_in_search: false
