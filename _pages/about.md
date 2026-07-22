@@ -7,11 +7,14 @@ permalink: /
 profile:
   align: left
   image: yt.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: false
   more_info: >
-#    <p>555 your office number</p>
-#    <p>123 your address street</p>
-#    <p>Your City, State 12345</p>
+    <div class="contact-icons" style="font-size: 1.3rem; text-align: center; margin-top: 15px;">
+      <a href="mailto:yang.tao@ndph.ox.ac.uk" title="Email" style="color: inherit;" target="_blank"><i class="fas fa-envelope"></i></a>
+      <a href="https://scholar.google.com/citations?user=-YLtDL0AAAAJ" title="Google Scholar" style="color: inherit;" target="_blank"><i class="ai ai-google-scholar"></i></a>
+      <a href="https://orcid.org/0000-0003-1333-6729" title="ORCID" style="color: inherit;" target="_blank"><i class="ai ai-orcid"></i></a>
+      <a href="https://github.com/lnukuo" title="GitHub" style="color: inherit;" target="_blank"><i class="fab fa-github"></i></a>
+    </div>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
